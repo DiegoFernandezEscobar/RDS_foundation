@@ -1,0 +1,22 @@
+/*
+Theme Name: Oxpitan Child
+Description: Child theme for the Oxpitan themes
+Author: gaviathemes
+Template: oxpitan
+*/
+.single-give_forms .give_forms {
+    margin: 0;
+}
+.shop-loop-container .woocommerce-filter select.orderby {
+    border-right: 10px solid #F8F8F7 !important;
+    box-shadow: none;
+}
+
+@media only screen and (max-width: 480px) {
+	.event-single .meta-block .info-item {
+	    width: 100%;
+	    float: none;
+	    padding-right: 0;
+	}
+}
+/*This file was exported by "Export WP Page to Static HTML" plugin which created by ReCorp (https://myrecorp.com) */
